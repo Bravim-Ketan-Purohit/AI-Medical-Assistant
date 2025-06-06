@@ -16,7 +16,9 @@ An intelligent, multi-modal assistant for clinical diagnostics, designed to inte
 The system is designed to support both clinical professionals and non-expert users, improving diagnostic clarity, follow-up tracking, and medical education.
 
 ![DEMO ScreenShots](https://drive.google.com/uc?export=view&id=1knwQGGP0IUyRJOUPRcK0DRa1TOOuh8HK)
-![DEMO ScreenShots](https://drive.google.com/file/d/1jdIcrhJaZ9lXwkhxDnlC5g6k0hwJW7AY/view?usp=sharing)
+
+---
+![DEMO ScreenShots](https://drive.google.com/file/d/1jdIcrhJaZ9lXwkhxDnlC5g6k0hwJW7AY)
 ---
 
 ## 🚀 Features
