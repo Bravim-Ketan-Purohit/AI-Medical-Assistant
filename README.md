@@ -17,7 +17,6 @@ The system is designed to support both clinical professionals and non-expert use
 
 ![DEMO ScreenShots](https://drive.google.com/uc?export=view&id=1knwQGGP0IUyRJOUPRcK0DRa1TOOuh8HK)
 
----
 ![DEMO Screenshots](https://drive.google.com/uc?export=view&id=1jdIcrhJaZ9lXwkhxDnlC5g6k0hwJW7AY)
 
 ---
